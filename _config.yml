@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Qinzhou Xiao"
 title_separator          : "-"
 name                     : &name "Qinzhou Xiao"
 description              : &description "Second Year Master Student in East China Normal University"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Qinzhou Xiao"
   location         : "Shanghai China"
-  email            : "none@example.org" 
+  email            : "qinzhou.xiao@stu.ecnu.edu.cn" 
 
 
 
